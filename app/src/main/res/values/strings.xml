@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercise 5</string>
+    <string name="email">E-mail</string>
+    <string name="password1">Password</string>
+    <string name="password2">Repeat Password</string>
+    <string name="submit">submit</string>
+</resources>
